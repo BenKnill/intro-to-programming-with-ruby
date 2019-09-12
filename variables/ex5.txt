@@ -1,0 +1,2 @@
+The first result will be 3. The second result will be an error because x is not defined in that scope. 
+
