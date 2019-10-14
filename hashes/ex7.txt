@@ -1,0 +1,11 @@
+# ex7.txt
+Given the following code...
+
+x = "hi there"
+my_hash = {x: "some value"}
+my_hash2 = {x => "some value"}
+What's the difference between the two hashes that were created?
+
+The difference is that in the first case you are making a hash with :x as the key, while in the second case
+the value stored by the variable x is the key. 
+
